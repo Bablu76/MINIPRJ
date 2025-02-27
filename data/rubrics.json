@@ -1,0 +1,14 @@
+{
+    "question_1": {
+      "text": "Explain the merge sort algorithm with an example.",
+      "bloom_level": "Comprehension",
+      "keywords": ["recursion", "divide and conquer", "merge sort"],
+      "word_count": "150-200"
+    },
+    "question_2": {
+      "text": "Analyze the time complexity of the binary search algorithm.",
+      "bloom_level": "Analysis",
+      "keywords": ["time complexity", "Big O notation", "binary search"],
+      "word_count": "150-200"
+    }
+  }
